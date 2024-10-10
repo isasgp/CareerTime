@@ -18,7 +18,7 @@
 ```
 nodejs 20.9.0
 React 18.2.0
-Java 17
+OpenJDK 17
 Spring Boot 3.2.5
 ```
 
