@@ -8,6 +8,7 @@
 - React
 - Spring Boot
 - Spring Security
+- Spring Data JPA
 - MySQL
 - MongoDB
 - WebSocket
